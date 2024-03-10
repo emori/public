@@ -1,7 +1,5 @@
-# U-NEXTアニメ動画
-
-- [TOP](../index.md) >> [ブックマーク一覧](index.md) >> U-NEXTアニメ動画
-
+- [TOP](TOP.md) > [Bookmarks](Bookmarks.md) > [Bookmark](Bookmark.md) > [BookmarkUNEXT](BookmarkUNEXT.md) > BookmarkUNEXTAnimation
+- # ブックマーク（U-NEXT/アニメ）
 - ## 放送クール別ラインアップ
 - 直近 [冬](https://video-static.unext.jp/season_anime/winter) [春](https://video-static.unext.jp/season_anime/spring) [夏](https://video-static.unext.jp/season_anime/summer) [秋](https://video-static.unext.jp/season_anime/autumn)
 - 2024 [冬](https://video.unext.jp/browse/feature/FET0011474) 春 夏 秋
