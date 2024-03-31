@@ -1,5 +1,5 @@
 # FrontPage
 
-- [Logseqipublicj](Logseq/index.md)
+- [Logseqï¼ˆpublicï¼‰](Logseq/index.md)
 
 [](EOF)

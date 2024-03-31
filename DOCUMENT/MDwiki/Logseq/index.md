@@ -1,8 +1,8 @@
-# Logseqipublicj
+# Logseqï¼ˆpublicï¼‰
 
 [TOP](../index.md) >> Logseq
 
-## Logseqƒgƒbƒvƒy[ƒW
+## Logseqãƒˆãƒƒãƒ—ãƒšãƒ¼ã‚¸
 
 [TOP](TOP.md)
 
