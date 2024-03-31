@@ -1,6 +1,8 @@
 # FrontPage
 
-- [アカウント/パスワード](account/index.md)
-- [ブックマーク一覧](bookmarks/index.md)
+- [Bookmarks](Logseq/Bookmarks.md)
+  - [Bookmark](Logseq/Bookmark.md)
+    - [BookmarkUNEXT](Logseq/BookmarkUNEXT.md)
+      - [BookmarkUNEXTAnimation](Logseq/BookmarkUNEXTAnimation.md)
 
 [](EOF)
