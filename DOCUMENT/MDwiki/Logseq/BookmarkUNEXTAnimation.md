@@ -2,7 +2,7 @@
 - # ブックマーク（U-NEXT/アニメ）
 - ## 放送クール別ラインアップ
 - 直近 [冬](https://video-static.unext.jp/season_anime/winter) [春](https://video-static.unext.jp/season_anime/spring) [夏](https://video-static.unext.jp/season_anime/summer) [秋](https://video-static.unext.jp/season_anime/autumn)
-- 2024 [冬](https://video.unext.jp/browse/feature/FET0011474) 春 夏 秋
+- 2024 [冬](https://video.unext.jp/browse/feature/FET0011474) [春](https://video.unext.jp/browse/feature/FET0011614) 夏 秋
 - 2023 [冬](https://video.unext.jp/browse/feature/FET0010812) [春](https://video.unext.jp/browse/feature/FET0010883) [夏](https://video.unext.jp/browse/feature/FET0010936) [秋](https://video.unext.jp/browse/feature/FET0011102)
 - 2022 [冬](https://video.unext.jp/browse/feature/FET0010295) [春](https://video.unext.jp/browse/feature/FET0010391) [夏](https://video.unext.jp/browse/feature/FET0010523) [秋](https://video.unext.jp/browse/feature/FET0010683)
 - 2021 [冬](https://video.unext.jp/browse/feature/FET0009809) [春](https://video.unext.jp/browse/feature/FET0009933) [夏](https://video.unext.jp/browse/feature/FET0010043) [秋](https://video.unext.jp/browse/feature/FET0010162)
